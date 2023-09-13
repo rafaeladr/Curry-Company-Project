@@ -12,7 +12,7 @@ import streamlit as st
 from datetime import datetime
 #from PIL import image
 
-st.set_page_config(page_title='Visão Restaurantes', layot='wide')
+st.set_page_config(page_title='Visão Restaurantes', layout='wide')
 
 #=================
 #Funções
